@@ -1,0 +1,118 @@
+#include <EEPROM.h>
+#include "GravityTDS.h"
+#include <Wire.h>
+
+#define sensorPinTBD  A0
+
+#define pHSensorPin A1
+float calibration_value = 21.34+3.5; 
+unsigned long int avgval; 
+int buffer_arr[10],temp;
+float phValue;
+
+#include <LiquidCrystal_I2C.h>
+LiquidCrystal_I2C lcd(0x27, 16, 2);
+
+#define TdsSensorPin A2
+GravityTDS gravityTds;
+float tdsValue = 0;
+
+
+void setup()
+{
+  // Wire.begin();
+  lcd.begin();
+  Serial.begin(9600);
+  
+
+  gravityTds.setPin(TdsSensorPin);
+    gravityTds.setAref(5.0);  //reference voltage on ADC, default 5.0V on Arduino UNO
+    gravityTds.setAdcRange(1024);  //1024 for 10bit ADC;4096 for 12bit ADC
+    gravityTds.begin();  //initialization
+}
+
+void  loop() {
+  turbidity (); 
+  pHSensor (); 
+  tds ();
+
+}
+void turbidity() {
+  int sensorValue = analogRead(sensorPinTBD);
+  int turbidity = map(sensorValue, 0,640, 100, 0);
+  delay(100);
+  lcd.setCursor(0, 0);
+  lcd.print("TBD");
+  lcd.print("   ");
+  lcd.setCursor(0, 1);
+  lcd.print(turbidity);
+  lcd.setCursor(2, 3);
+  lcd.print("ntu");
+  delay(100);
+  
+
+} 
+void pHSensor () {
+for(int i=0;i<10;i++) 
+ { 
+ buffer_arr[i]=analogRead(pHSensorPin);
+ delay(100);
+ }
+ for(int i=0;i<9;i++)
+ {
+ for(int j=i+1;j<10;j++)
+ {
+ if(buffer_arr[i]>buffer_arr[j])
+ {
+ temp=buffer_arr[i];
+ buffer_arr[i]=buffer_arr[j];
+ buffer_arr[j]=temp;
+ }
+ }
+ }
+ avgval=0;
+ for(int i=2;i<8;i++)
+ avgval+=buffer_arr[i];
+ float volt=(float)avgval*5.0/1024/6; 
+  phValue = -5.70 * volt + calibration_value; 
+
+if (phValue<5.5) {
+  phValue= phValue+6;   
+   pHLCD ();
+}
+else if (phValue>8.5){
+  phValue= phValue-6;   
+   pHLCD ();
+}
+else {
+  pHLCD ();
+  
+}
+
+}
+
+void pHLCD () {
+  lcd.setCursor(6,0);
+  lcd.print ("pHs");
+  Serial.print ("PHS");
+  Serial.println(phValue,1);
+  lcd.setCursor(6,1);
+  lcd.print(phValue,1);
+  lcd.print(" ");
+  return ;
+}
+
+void tds () {
+ 
+    gravityTds.update();  //sample and calculate
+    tdsValue = gravityTds.getTdsValue();  // then get the value
+   lcd.setCursor (11,0);
+   lcd.print ("TDS");
+   lcd.setCursor (11,1);
+    lcd.print(tdsValue,0);
+    
+     lcd.setCursor(12, 1);
+    //lcd.print(tdsValue,0);
+    lcd.print("ppm");
+
+}
