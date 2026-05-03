@@ -13,8 +13,7 @@ Engineering student and Information and Communications Technology (ICT) trainee 
 *   **GitHub:** [@dream-creator](https://github.com/dream-creator)
 *   **Current Project:** Architecting and developing Makerswap, a Local Makerspace & Hardware Exchange platform designed to facilitate student component trading.
 *   **Core Technologies:** Next.js, Node.js, PostgreSQL
-*   **Professional Development:** Department of Information and Communications Technology (DICT) Training & AI Fluency for Educators
-
+*   
 <div align="center">
   <b>Ryan Gabriel's Contribution Graph</b><br>
   <!-- This uses a common open-source tool to generate a chart from your GitHub activity -->
