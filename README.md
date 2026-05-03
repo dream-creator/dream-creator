@@ -1,5 +1,3 @@
-dream-creator / README.md
-
 # Ryan Gabriel
 
 `Software Engineer` + `Full-Stack Developer` + `Database Management`
