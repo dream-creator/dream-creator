@@ -2,7 +2,7 @@ dream-creator / README.md
 
 # Ryan Gabriel
 
-`Software Engineer` + `Full-Stack Developer` + `Cloud Infrastructure` + `Database Management`
+`Software Engineer` + `Full-Stack Developer` + `Database Management`
 
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=dream-creator.dream-creator&countColor=%230e75b6)
 
@@ -14,6 +14,13 @@ dream-creator / README.md
 Software Engineer specializing in full-stack web development and scalable system architecture. Passionate about open-source technologies, system optimization, and building user-centric applications.
 
 *   **GitHub:** [@dream-creator](https://github.com/dream-creator)
+*   **LinkedIn:** [Ryan Gabriel](https://ph.linkedin.com/in/ryan-gabriel01)
+*   **Email:** [ryan.gabrielle01@gmail.com](mailto:ryan.gabrielle01@gmail.com)
 *   **Current Focus:** Architecting and developing **Makerswap**, a Local Makerspace & Hardware Exchange platform designed to facilitate student component trading.
 *   **Core Technologies:** Next.js, Node.js, Spring Boot, PostgreSQL
 
+<div align="center">
+  <b>Ryan Gabriel's Contribution Graph</b><br>
+  <!-- This uses a common open-source tool to generate a chart from your GitHub activity -->
+  <img src="https://ghchart.rshah.org/dream-creator" alt="Contribution Graph" />
+</div>
