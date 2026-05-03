@@ -18,9 +18,3 @@ Software Engineer specializing in full-stack web development and scalable system
 *   **Email:** [ryan.gabrielle01@gmail.com](mailto:ryan.gabrielle01@gmail.com)
 *   **Current Focus:** Architecting and developing **Makerswap**, a Local Makerspace & Hardware Exchange platform designed to facilitate student component trading.
 *   **Core Technologies:** Next.js, Node.js, Spring Boot, PostgreSQL
-
-<div align="center">
-  <b>Ryan Gabriel's Contribution Graph</b><br>
-  <!-- This uses a common open-source tool to generate a chart from your GitHub activity -->
-  <img src="https://ghchart.rshah.org/dream-creator" alt="Contribution Graph" />
-</div>
