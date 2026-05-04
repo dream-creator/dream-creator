@@ -14,6 +14,6 @@ Software Engineer specializing in full-stack web development and scalable system
 *   **GitHub:** [@dream-creator](https://github.com/dream-creator)
 *   **LinkedIn:** [Ryan Gabriel](https://ph.linkedin.com/in/ryan-gabriel01)
 *   **Email:** [ryan.gabrielle01@gmail.com](mailto:ryan.gabrielle01@gmail.com)
-*   **Current Focus:** Architecting and developing [**Makerswap**](https://makerswap-nu.vercel.app/), a Local Makerspace & Hardware Exchange platform designed to facilitate student component trading.
+*   **Current Focus:** Architecting and developing [**Makerswap**](https://makerswap-nu.vercel.app/), a Local Makerspace & Hardware Exchange platform designed to facilitate student component trading (currently unavailable).
 *   **Core Technologies:** Next.js, Node.js, Spring Boot, PostgreSQL
 
