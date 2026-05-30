@@ -16,4 +16,4 @@ Computer Engineering student at Mindanao State University - Iligan Institute of 
 * **LinkedIn:** [Ryan Gabriel](https://ph.linkedin.com/in/ryan-gabriel01)
 * **Email:** [ryan.gabrielle01@gmail.com](mailto:ryan.gabrielle01@gmail.com)
 * **Current Focus:** Architecting and developing [**Makerswap**](https://makerswap-nu.vercel.app/), a Local Makerspace & Hardware Exchange platform designed to facilitate student component trading (currently unavailable).
-* **Core Technologies:** React, Node.js, Firebase
+* **Core Technologies:** React, Node.js, Firebase, Supabase
