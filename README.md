@@ -6,7 +6,7 @@
 
 ## Tech Stack
 
-![My Skills](https://skillicons.dev/icons?i=nextjs,react,spring,vite,vercel,git)
+![My Skills](https://skillicons.dev/icons?i=nextjs,react,spring,vite,vercel,git,supabase)
 
 ## Intro
 
