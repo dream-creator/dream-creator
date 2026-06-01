@@ -1,6 +1,6 @@
 # Ryan Gabriel
 
-`Software Engineer` + `Full-Stack Developer` + `Database Management`
+`Software Engineer` + `Full-Stack Developer` + `Database Management` + `Automation` 
 
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=dream-creator.dream-creator&countColor=%230e75b6)
 
