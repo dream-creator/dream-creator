@@ -20,7 +20,6 @@
 - Currently building **[Makerswap](https://makerswap-nu.vercel.app/)** (student hardware exchange) and **[AgentFlow](https://agentflow-inky.vercel.app/)** (Intelligent CRM & workflow automation)
 - Deepening expertise in **system optimization**, **microservices architecture**, and **cloud-native development**
 - Ask me about **React**, **Next.js**, **Supabase**, **Firebase**, or **full-stack system design**
-- Reach me at **[ryan.gabrielle01@gmail.com](mailto:ryan.gabrielle01@gmail.com)**
 - Passionate about **open-source technologies** and building user-centric, impactful applications
 
 ---
