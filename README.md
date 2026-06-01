@@ -13,32 +13,27 @@
 
 ---
 
-##  About Me
+## About Me
 
 > Computer Engineering student at **Mindanao State University – Iligan Institute of Technology (MSU-IIT)**, specializing in **full-stack web development** and **scalable system architecture**.
 
--  Currently building **[Makerswap](https://makerswap-nu.vercel.app/)** (student hardware exchange) and **[AgentFlow](https://agentflow-inky.vercel.app/)** (Intelligent CRM & workflow automation)
--  Deepening expertise in **system optimization**, **microservices architecture**, and **cloud-native development**
--  Ask me about **React**, **Next.js**, **Supabase**, **Firebase**, or **full-stack system design**
--  Reach me at **[ryan.gabrielle01@gmail.com](mailto:ryan.gabrielle01@gmail.com)**
--  Passionate about **open-source technologies** and building user-centric, impactful applications
+- Currently building **[Makerswap](https://makerswap-nu.vercel.app/)** (student hardware exchange) and **[AgentFlow](https://agentflow-inky.vercel.app/)** (Intelligent CRM & workflow automation)
+- Deepening expertise in **system optimization**, **microservices architecture**, and **cloud-native development**
+- Ask me about **React**, **Next.js**, **Supabase**, **Firebase**, or **full-stack system design**
+- Reach me at **[ryan.gabrielle01@gmail.com](mailto:ryan.gabrielle01@gmail.com)**
+- Passionate about **open-source technologies** and building user-centric, impactful applications
 
 ---
 
-##  Featured Projects
-
-<div align="center">
+## Featured Projects
 
 | Project | Live Demo | Stack | Description |
 |---------|-----------|-------|-------------|
-|  **Makerswap** | [makerswap-nu.vercel.app ↗](https://makerswap-nu.vercel.app/) | React · Supabase · Vercel | Local Makerspace & Hardware Exchange platform enabling student component trading at MSU-IIT |
-|  **AgentFlow** | [agentflow-inky.vercel.app ↗](https://agentflow-inky.vercel.app/) | Next.js · Supabase · Stripe · Resend · Vercel | Intelligent agent-driven CRM & workflow automation platform for lead management with real-time pipeline tracking and automated outreach |
-
-</div>
+| **Makerswap** | [makerswap-nu.vercel.app ↗](https://makerswap-nu.vercel.app/) | React · Supabase · Vercel | Local Makerspace & Hardware Exchange platform enabling student component trading at MSU-IIT |
+| **AgentFlow** | [agentflow-inky.vercel.app ↗](https://agentflow-inky.vercel.app/) | Next.js · Supabase · Stripe · Resend · Vercel | Intelligent agent-driven CRM & workflow automation platform for lead management with real-time pipeline tracking and automated outreach |
 
 ---
 
-
 <div align="center">
-  <i>"First, solve the problem. Then, write the code."</i>
+  <i>"First, solve the problem. Then, write the code."</i>
 </div>
