@@ -41,14 +41,6 @@
 ---
 
 
-##  Education
-
-|  Institution |  Degree |  Location |
-|---|---|---|
-| **Mindanao State University – Iligan Institute of Technology** | B.S. Computer Engineering | Iligan City, Philippines |
-
----
-
 ##  Let's Connect
 
 <div align="center">
