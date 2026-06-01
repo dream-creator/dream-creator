@@ -13,21 +13,21 @@
 
 ---
 
-## 👨‍💻 About Me
+##  About Me
 
 > Computer Engineering student at **Mindanao State University – Iligan Institute of Technology (MSU-IIT)**, specializing in **full-stack web development** and **scalable system architecture**.
 
-- 🔭 Currently building **[Makerswap](https://makerswap-nu.vercel.app/)** (student hardware exchange) and **[AgentFlow](https://agentflow-inky.vercel.app/)** (AI-driven CRM & workflow automation)
-- 🌱 Deepening expertise in **system optimization**, **microservices architecture**, and **cloud-native development**
-- 💬 Ask me about **React**, **Next.js**, **Supabase**, **Firebase**, or **full-stack system design**
-- 📫 Reach me at **[ryan.gabrielle01@gmail.com](mailto:ryan.gabrielle01@gmail.com)**
-- ⚡ Passionate about **open-source technologies** and building user-centric, impactful applications
+-  Currently building **[Makerswap](https://makerswap-nu.vercel.app/)** (student hardware exchange) and **[AgentFlow](https://agentflow-inky.vercel.app/)** (AI-driven CRM & workflow automation)
+-  Deepening expertise in **system optimization**, **microservices architecture**, and **cloud-native development**
+-  Ask me about **React**, **Next.js**, **Supabase**, **Firebase**, or **full-stack system design**
+-  Reach me at **[ryan.gabrielle01@gmail.com](mailto:ryan.gabrielle01@gmail.com)**
+-  Passionate about **open-source technologies** and building user-centric, impactful applications
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
-### 🎨 Frontend
+###  Frontend
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
@@ -37,41 +37,41 @@
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-### ⚙️ Backend
+###  Backend
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
-### 🗄️ Database & BaaS
+###  Database & BaaS
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
-### 💳 Payments & Services
+###  Payments & Services
 ![Stripe](https://img.shields.io/badge/Stripe-008CDD?style=for-the-badge&logo=stripe&logoColor=white)
 ![Resend](https://img.shields.io/badge/Resend-000000?style=for-the-badge&logo=resend&logoColor=white)
 
-### 🚀 Tools & DevOps
+###  Tools & DevOps
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
 ---
 
-## 🚀 Featured Projects
+##  Featured Projects
 
 <div align="center">
 
 | Project | Live Demo | Stack | Description |
 |---------|-----------|-------|-------------|
-| 🛠️ **Makerswap** | [makerswap-nu.vercel.app ↗](https://makerswap-nu.vercel.app/) | React · Supabase · Vercel | Local Makerspace & Hardware Exchange platform enabling student component trading at MSU-IIT |
-| 🤖 **AgentFlow** | [agentflow-inky.vercel.app ↗](https://agentflow-inky.vercel.app/) | Next.js · Supabase · Stripe · Resend · Vercel | Intelligent agent-driven CRM & workflow automation platform for lead management with real-time pipeline tracking and automated outreach |
+|  **Makerswap** | [makerswap-nu.vercel.app ↗](https://makerswap-nu.vercel.app/) | React · Supabase · Vercel | Local Makerspace & Hardware Exchange platform enabling student component trading at MSU-IIT |
+|  **AgentFlow** | [agentflow-inky.vercel.app ↗](https://agentflow-inky.vercel.app/) | Next.js · Supabase · Stripe · Resend · Vercel | Intelligent agent-driven CRM & workflow automation platform for lead management with real-time pipeline tracking and automated outreach |
 
 </div>
 
 ---
 
-## 📊 GitHub Stats
+##  GitHub Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=dream-creator&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="165" alt="Ryan's GitHub Stats" />
@@ -90,15 +90,15 @@
 
 ---
 
-## 🎓 Education
+##  Education
 
-| 🏛️ Institution | 📐 Degree | 📍 Location |
+|  Institution |  Degree |  Location |
 |---|---|---|
 | **Mindanao State University – Iligan Institute of Technology** | B.S. Computer Engineering | Iligan City, Philippines |
 
 ---
 
-## 🤝 Let's Connect
+##  Let's Connect
 
 <div align="center">
 
