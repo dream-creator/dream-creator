@@ -30,7 +30,7 @@
 | Project | Live Demo | Stack | Description |
 |---------|-----------|-------|-------------|
 | **Makerswap** | [makerswap-nu.vercel.app ↗](https://makerswap-nu.vercel.app/) | React · Supabase · Vercel | Local Makerspace & Hardware Exchange platform enabling student component trading at MSU-IIT |
-| **AgentFlow** | [https://agent-flow.app/) | Next.js · Supabase · Stripe · Resend · Vercel | Intelligent agent-driven CRM & workflow automation platform for lead management with real-time pipeline tracking and automated outreach |
+| **AgentFlow** | https://agent-flow.app/ | Next.js · Supabase · Stripe · Resend · Vercel | Intelligent agent-driven CRM & workflow automation platform for lead management with real-time pipeline tracking and automated outreach |
 
 ---
 
