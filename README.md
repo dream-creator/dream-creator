@@ -41,18 +41,6 @@
 ---
 
 
-##  Let's Connect
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ryan_Gabriel-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://ph.linkedin.com/in/ryan-gabriel01)
-[![GitHub](https://img.shields.io/badge/GitHub-dream--creator-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dream-creator)
-[![Email](https://img.shields.io/badge/Email-ryan.gabrielle01%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ryan.gabrielle01@gmail.com)
-
-</div>
-
----
-
 <div align="center">
   <i>"First, solve the problem. Then, write the code."</i>
 </div>
