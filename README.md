@@ -17,7 +17,7 @@
 
 > Computer Engineering student at **Mindanao State University – Iligan Institute of Technology (MSU-IIT)**, specializing in **full-stack web development** and **scalable system architecture**.
 
-- Currently building **[Makerswap](https://makerswap-nu.vercel.app/)** (student hardware exchange) and **[AgentFlow](https://agentflow-inky.vercel.app/)** (Intelligent CRM & workflow automation)
+- Currently building **[Makerswap](https://makerswap-nu.vercel.app/)** (student hardware exchange) and **[AgentFlow](https://agent-flow.app/)** (Intelligent CRM & workflow automation)
 - Deepening expertise in **system optimization**, **microservices architecture**, and **cloud-native development**
 - Ask me about **React**, **Next.js**, **Supabase**, **Firebase**, or **full-stack system design**
 - Passionate about **open-source technologies** and building user-centric, impactful applications
@@ -29,7 +29,7 @@
 | Project | Live Demo | Stack | Description |
 |---------|-----------|-------|-------------|
 | **Makerswap** | [makerswap-nu.vercel.app ↗](https://makerswap-nu.vercel.app/) | React · Supabase · Vercel | Local Makerspace & Hardware Exchange platform enabling student component trading at MSU-IIT |
-| **AgentFlow** | https://agent-flow.app/ (BETA) | Next.js · Supabase · Stripe · Resend · Vercel | Intelligent agent-driven CRM & workflow automation platform for lead management with real-time pipeline tracking and automated outreach |
+| **AgentFlow** | [agent-flow.app ↗](https://agent-flow.app/) | Next.js · Supabase · Stripe · Resend · Vercel | Intelligent agent-driven CRM & workflow automation platform for lead management with real-time pipeline tracking and automated outreach |
 
 ---
 
