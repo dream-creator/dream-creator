@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=3500&pause=1000&color=0E75B6&center=true&vCenter=true&random=false&width=560&lines=Hi+%F0%9F%91%8B%2C+I'm+Ryan+Gabriel;Full-Stack+Developer;Software+Engineer;CPE+%40+MSU-IIT" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=3500&pause=1000&color=0E75B6&center=true&vCenter=true&random=false&width=560&lines=Hi+%F0%9F%91%8B%2C+I'm+Ryan+Gabriel;Software+Engineer;CPE+%40+MSU-IIT" alt="Typing SVG" />
 
 <br/>
 
@@ -15,11 +15,11 @@
 
 ## About Me
 
-> Computer Engineering student at **Mindanao State University – Iligan Institute of Technology (MSU-IIT)**, specializing in **full-stack web development** and **scalable system architecture**.
+> Computer Engineering student at **Mindanao State University – Iligan Institute of Technology (MSU-IIT)**, specializing in **software engineering** and **scalable system architecture**.
 
 - Currently building **[Makerswap](https://makerswap-nu.vercel.app/)** (student hardware exchange) and **[AgentFlow](https://agent-flow.app/)** (Intelligent CRM & workflow automation)
 - Deepening expertise in **system optimization**, **microservices architecture**, and **cloud-native development**
-- Ask me about **React**, **Next.js**, **Supabase**, **Firebase**, or **full-stack system design**
+- Ask me about **React**, **Next.js**, **Supabase**, **Firebase**, or **system design**
 - Passionate about **open-source technologies** and building user-centric, impactful applications
 
 ---
